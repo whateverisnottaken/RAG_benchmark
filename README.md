@@ -1,5 +1,12 @@
 # RAG_benchmark
 This is a benchmark for evaluating RAG tools, for both general tasks and comprehensive tasks.
+## benchmarks
+This benchmark repository contains 3 parts of scores:
+
+1. It calculates the recall of your recall model on top 1, top 3, top 5 and top 10 retrieval results.
+2. It calculates how well your model can tell if the information is contained within the contexts.
+3. It shows the inference results of your RAG tool and you can score it artificially.
+
 # How To Use
 ## Step 1:
 Make sure you have Python >= 3.8 on your device.
