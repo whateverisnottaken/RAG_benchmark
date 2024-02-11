@@ -24,3 +24,5 @@ This dataset includes texts from wikipedia and question-answer pairs in Japanese
 ## Example of comprehensive tasks:
 `Question: 尼崎市に本社を置く企業の共通点とは何ですか？`
 `Answer: 尼崎市に本社を置いた企業は、歴史があり、また地域に密接している企業であるという共通点があります。例えば、ユニチカは1889年に尼崎紡績が前身となり設立された歴史ある企業であり、阪神電気鉄道は一時期尼崎に本社を設置していたことが挙げられます。さらにエディオンの前身企業のミドリ電化は本社を尼崎に置き、洋菓子のヒロタやコンフェクショナリーコトブキも市内に本社工場を構え、深いつながりを持っています。また、ヤンマーディーゼルサッカー部は、現在はセレッソ大阪となっていますが、その起源を尼崎市に持っています。`
+# How to implement `custom_test.py`
+Please refer to the comments in the script. A simple example is also presented.
