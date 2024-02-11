@@ -1,5 +1,5 @@
 # RAG_benchmark
-This is a public benchmark repository for evaluating RAG tools.
+This is a benchmark for evaluating RAG tools, for both general tasks and comprehensive tasks.
 # How To Use
 ## Step 1:
 Make sure you have Python >= 3.8 on your device.
